@@ -1,1 +1,14 @@
 
+name: app-text-mining-word-embedding
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.7
+  - nltk
+  - pandas
+  - scikit-learn
+  - gensim
+  - matplotlib
+  - numpy
+  - matplotlib
